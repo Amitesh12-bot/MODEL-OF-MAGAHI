@@ -121,3 +121,286 @@ Word Frequencies:
 aglain : 1
 PS C:\Users\rites\OneDrive\Desktop\jupyter> & 'c:\Users\rites\Downloads\JOSN FILE\# Morphological Pattern Finder using maghi text.py'
 PS C:\Users\rites\OneDrive\Desktop\jupyter>
+
+
+PS C:\Users\rites\OneDrive\Desktop\jupyter> & C:/Users/rites/AppData/Local/Python/pythoncore-3.14-64/python.exe "c:/Users/rites/Downloads/JOSN FILE/# Morphological Pattern Finder usinf infixes.py"
+Enter a infixes (-l-, -n-, -wa-, -d-, -r-, -m-): l
+
+Words containing internal with l :
+['halaa', 'phile', 'halathin', 'halthin', 'krailthin', 'delkaa', 'delk', 'aaliisaan', 'banaailk', 'aglain', 'musalmaani', 'gulaam', 'cugalkhoorii', 'molavii', 'aila', 'haladhar', 'kavle', 'delk', 'utarlaa', 'kailk', 'batailk', 'bollaa', 'calke', 'bollaa', 'kailk', 'kalah', 'ailuṃ', 'kailuṃ', 'bollaa', 'hale', 'khailuuṃ', 'maaluum', 'samjhalak', 'bollaa', 'delk', 'bollaa', 'bollaa', 'vaale', 'kevlaa', 'alag', 'rakhalk', 'puchlaka', 'iilo']
+
+Word Frequencies:
+halaa : 1
+phile : 1
+halathin : 1
+halthin : 1
+krailthin : 1
+delkaa : 1
+delk : 3
+aaliisaan : 1
+banaailk : 1
+aglain : 1
+musalmaani : 1
+gulaam : 1
+cugalkhoorii : 1
+molavii : 1
+aila : 1
+haladhar : 1
+kavle : 1
+utarlaa : 1
+kailk : 2
+batailk : 1
+bollaa : 6
+calke : 1
+kalah : 1
+ailuṃ : 1
+kailuṃ : 1
+hale : 1
+khailuuṃ : 1
+maaluum : 1
+samjhalak : 1
+vaale : 1
+kevlaa : 1
+alag : 1
+rakhalk : 1
+puchlaka : 1
+iilo : 1
+PS C:\Users\rites\OneDrive\Desktop\jupyter> C:/Users/rites/AppData/Local/Python/pythoncore-3.14-64/python.exe "c:/Users/rites/Downloads/JOSN FILE/# Morphological Pattern Finder usinf infixes.py"
+Enter a infixes (-l-, -n-, -wa-, -d-, -r-, -m-): n
+
+Words containing internal with n :
+['vaanii', 'inkar', 'inkaa', 'loghḍaniyaaṃ', 'dhurphandii', 'uunch-niic', 'banaailk', 'sugnlaal', 'musalmaani', 'hindust', 'inkaa', 'inkaa', 'maanabhuum', 'unkaa', 'jahinaa', 'pahunch', 'paanii', 'bandobast', 'saanjh', 'pahunch', 'bandagii', 'paanii', 'intajaam', 'ainaa', 'akhane', 'khaabindii', 'karnaa', 'dunu', 'khaansaamaa', 'tiin-caar', 'apne', 'khaansaamaa', 'khaansaamaa', 'biisno', 'biisno', 'hinduu', 'khaansaamaa', 'hinduu']
+
+Word Frequencies:
+vaanii : 1
+inkar : 1
+inkaa : 3
+loghḍaniyaaṃ : 1
+dhurphandii : 1
+uunch-niic : 1
+banaailk : 1
+sugnlaal : 1
+musalmaani : 1
+hindust : 1
+maanabhuum : 1
+unkaa : 1
+jahinaa : 1
+pahunch : 2
+paanii : 2
+bandobast : 1
+saanjh : 1
+bandagii : 1
+intajaam : 1
+ainaa : 1
+akhane : 1
+khaabindii : 1
+karnaa : 1
+dunu : 1
+khaansaamaa : 4
+tiin-caar : 1
+apne : 1
+biisno : 2
+hinduu : 2
+PS C:\Users\rites\OneDrive\Desktop\jupyter> C:/Users/rites/AppData/Local/Python/pythoncore-3.14-64/python.exe "c:/Users/rites/Downloads/JOSN FILE/# Morphological Pattern Finder usinf infixes.py"
+Enter a infixes (-l-, -n-, -wa-, -d-, -r-, -m-): wa
+
+Words containing internal with wa :
+[]
+
+Word Frequencies:
+PS C:\Users\rites\OneDrive\Desktop\jupyter> C:/Users/rites/AppData/Local/Python/pythoncore-3.14-64/python.exe "c:/Users/rites/Downloads/JOSN FILE/# Morphological Pattern Finder usinf infixes.py"
+Enter a infixes (-l-, -n-, -wa-, -d-, -r-, -m-): d
+
+Words containing internal with d :
+['khosaamdii', 'vaads', 'hindust', 'jaade', 'badal', 'haladhar', 'adur', 'bandobast', 'aadaab', 'bandagii', 'urduu', 'khaabindii', 'khosaamdii', 'aadami', 'urduu', 'khidmatgaar', 'urduu', 'hinduu', 'hinduu']
+
+Word Frequencies:
+khosaamdii : 2
+vaads : 1
+hindust : 1
+jaade : 1
+badal : 1
+haladhar : 1
+adur : 1
+bandobast : 1
+aadaab : 1
+bandagii : 1
+urduu : 3
+khaabindii : 1
+aadami : 1
+khidmatgaar : 1
+hinduu : 2
+PS C:\Users\rites\OneDrive\Desktop\jupyter> C:/Users/rites/AppData/Local/Python/pythoncore-3.14-64/python.exe "c:/Users/rites/Downloads/JOSN FILE/# Morphological Pattern Finder usinf infixes.py"r
+Enter a infixes (-l-, -n-, -wa-, -d-, -r-, -m-): r
+
+Words containing internal with r :
+['sariiph', 'gariib', 'guruai', 'krailthin', 'karake', 'mukhtaarkaarii', 'dhurphandii', 'triikaa', 'mokhtaarkaarii', 'gariib', 'karj', 'okraa', 'kare', 'kariib-kariib', 'sark', 'aarii', 'kare', 'maatraa', 'vagairah', 'ekare', 'cugalkhoorii', 'ekare', 'bars', 'dhurataaii', 'bharos', 'tekraa', 'utarlaa', 'aarju', 'bhitre', 'urduu', 'paraes', 'jarise', 'hamraa', 'kraa', 'naaraaj', 'karnaa', 'urduu', 'kamraa', 'gairah', 'gairah', 'bhiirii', 'taraf', 'dardaū', 'urduu', 'kirakiraa', 'puraan']
+
+Word Frequencies:
+sariiph : 1
+gariib : 2
+guruai : 1
+krailthin : 1
+karake : 1
+mukhtaarkaarii : 1
+dhurphandii : 1
+triikaa : 1
+mokhtaarkaarii : 1
+karj : 1
+okraa : 1
+kare : 2
+kariib-kariib : 1
+sark : 1
+aarii : 1
+maatraa : 1
+vagairah : 1
+ekare : 2
+cugalkhoorii : 1
+bars : 1
+dhurataaii : 1
+bharos : 1
+tekraa : 1
+utarlaa : 1
+aarju : 1
+bhitre : 1
+urduu : 3
+paraes : 1
+jarise : 1
+hamraa : 1
+kraa : 1
+naaraaj : 1
+karnaa : 1
+kamraa : 1
+gairah : 2
+bhiirii : 1
+taraf : 1
+dardaū : 1
+kirakiraa : 1
+puraan : 1
+PS C:\Users\rites\OneDrive\Desktop\jupyter> C:/Users/rites/AppData/Local/Python/pythoncore-3.14-64/python.exe "c:/Users/rites/Downloads/JOSN FILE/# Morphological Pattern Finder usinf infixes.py"
+Enter a infixes (-l-, -n-, -wa-, -d-, -r-, -m-): m
+
+Words containing internal with m :
+['saamlaal', 'imatih', 'dumhal', 'khosaamdii', 'saamlaal', 'samjath', 'hamraa', 'khosaamdii', 'khaahmakhaah', 'samjhalak', 'aadami', 'samjh', 'kamraa', 'khidmatgaar', 'khaansaamaa', 'khaansaamaa', 'khaansaamaa', 'khaansaamaa']
+
+Word Frequencies:
+saamlaal : 2
+imatih : 1
+dumhal : 1
+khosaamdii : 2
+samjath : 1
+hamraa : 1
+khaahmakhaah : 1
+samjhalak : 1
+aadami : 1
+samjh : 1
+kamraa : 1
+khidmatgaar : 1
+khaansaamaa : 4
+PS C:\Users\rites\OneDrive\Desktop\jupyter>
+
+PS C:\Users\rites\OneDrive\Desktop\jupyter> & C:/Users/rites/AppData/Local/Python/pythoncore-3.14-64/python.exe "c:/Users/rites/Downloads/JOSN FILE/# Morphological Pattern Finder using prefix form in magahi.py"
+Enter a prefix (ba-, be-, dhur-, aa-, ut-, pa-, sam-, nai-): ba
+
+Words starting with ba :
+['baabuu', 'baakii', 'baad', 'baabuu', 'baad', 'banaailk', 'baakii', 'baakii', 'bagaair', 'baṛh', 'badal', 'bars', 'bah', 'baakii', 'bandobast', 'baje', 'bakhtiaarpur', 'bandagii', 'batailk', 'baat', 'bait', 'baakii', 'baahar', 'bait']
+
+Word Frequencies:
+baabuu : 2
+baakii : 5
+baad : 2
+banaailk : 1
+bagaair : 1
+baṛh : 1
+badal : 1
+bars : 1
+bah : 1
+bandobast : 1
+baje : 1
+bakhtiaarpur : 1
+bandagii : 1
+batailk : 1
+baat : 1
+bait : 2
+baahar : 1
+PS C:\Users\rites\OneDrive\Desktop\jupyter> C:/Users/rites/AppData/Local/Python/pythoncore-3.14-64/python.exe "c:/Users/rites/Downloads/JOSN FILE/# Morphological Pattern Finder using prefix form in magahi.py"
+Enter a prefix (ba-, be-, dhur-, aa-, ut-, pa-, sam-, nai-): be
+
+Words starting with be :
+[]
+
+Word Frequencies:
+PS C:\Users\rites\OneDrive\Desktop\jupyter> C:/Users/rites/AppData/Local/Python/pythoncore-3.14-64/python.exe "c:/Users/rites/Downloads/JOSN FILE/# Morphological Pattern Finder using prefix form in magahi.py"
+Enter a prefix (ba-, be-, dhur-, aa-, ut-, pa-, sam-, nai-): dhur
+
+Words starting with dhur :
+['dhurphandii.', 'dhurataaii']
+
+Word Frequencies:
+dhurphandii. : 1
+dhurataaii : 1
+PS C:\Users\rites\OneDrive\Desktop\jupyter> C:/Users/rites/AppData/Local/Python/pythoncore-3.14-64/python.exe "c:/Users/rites/Downloads/JOSN FILE/# Morphological Pattern Finder using prefix form in magahi.py"
+Enter a prefix (ba-, be-, dhur-, aa-, ut-, pa-, sam-, nai-): aa
+
+Words starting with aa :
+['aa', 'aa.', 'aan', 'aa.', 'aad', 'aar', 'aa', 'aa', 'aa.', 'aa', 'aa', 'aa', 'aaliisaan', 'aa.', 'aa', 'aarii', 'aa', 'aahat', 'aan', 'aa.', 'aa.', 'aa.', 'aa', 'aa', 'aave', 'aa', 'aa', 'aadaab', 'aa', 'aa', 'aave', 'aarju', 'aa', 'aan', 'aa', 'aan', 'aakhir', 'aal', 'aadami', 'aakhir', 'aa', 'aa.', 'aa.', 'aa', 'aa', 'aal', 'aa', 'aa', 'aa']
+
+Word Frequencies:
+aa : 22
+aa. : 9
+aan : 4
+aad : 1
+aar : 1
+aaliisaan : 1
+aarii : 1
+aahat : 1
+aave : 2
+aadaab : 1
+aarju : 1
+aakhir : 2
+aal : 2
+aadami : 1
+PS C:\Users\rites\OneDrive\Desktop\jupyter> C:/Users/rites/AppData/Local/Python/pythoncore-3.14-64/python.exe "c:/Users/rites/Downloads/JOSN FILE/# Morphological Pattern Finder using prefix form in magahi.py"ut
+Enter a prefix (ba-, be-, dhur-, aa-, ut-, pa-, sam-, nai-): ut
+
+Words starting with ut :
+['utarlaa']
+
+Word Frequencies:
+utarlaa : 1
+PS C:\Users\rites\OneDrive\Desktop\jupyter> C:/Users/rites/AppData/Local/Python/pythoncore-3.14-64/python.exe "c:/Users/rites/Downloads/JOSN FILE/# Morphological Pattern Finder using prefix form in magahi.py"
+Enter a prefix (ba-, be-, dhur-, aa-, ut-, pa-, sam-, nai-): pa
+
+Words starting with pa :
+['paas', 'paas', 'par', 'par', 'pahunch', 'paanii', 'pahunch', 'pataa', 'pacchim', 'paanii', 'paraes', 'pach', 'pair', 'par', 'par']
+
+Word Frequencies:
+paas : 2
+par : 4
+pahunch : 2
+paanii : 2
+pataa : 1
+pacchim : 1
+paraes : 1
+pach : 1
+pair : 1
+PS C:\Users\rites\OneDrive\Desktop\jupyter> C:/Users/rites/AppData/Local/Python/pythoncore-3.14-64/python.exe "c:/Users/rites/Downloads/JOSN FILE/# Morphological Pattern Finder using prefix form in magahi.py"
+Enter a prefix (ba-, be-, dhur-, aa-, ut-, pa-, sam-, nai-): sam
+
+Words starting with sam :
+['samjath', 'samjhalak', 'samjh']
+
+Word Frequencies:
+samjath : 1
+samjhalak : 1
+samjh : 1
+PS C:\Users\rites\OneDrive\Desktop\jupyter> C:/Users/rites/AppData/Local/Python/pythoncore-3.14-64/python.exe "c:/Users/rites/Downloads/JOSN FILE/# Morphological Pattern Finder using prefix form in magahi.py"
+Enter a prefix (ba-, be-, dhur-, aa-, ut-, pa-, sam-, nai-): nai
+
+Words starting with nai :
+['nai', 'nai', 'nai', 'nai', 'nai', 'nai', 'nai', 'nai', 'nai,', 'nai,', 'nai']
+
+Word Frequencies:
+nai : 9
+nai, : 2
+PS C:\Users\rites\OneDrive\Desktop\jupyter>
