@@ -1,0 +1,123 @@
+PS C:\Users\rites\OneDrive\Desktop\jupyter> & C:/Users/rites/AppData/Local/Python/pythoncore-3.14-64/python.exe "c:/Users/rites/Downloads/JOSN FILE/# Morphological Pattern Finder using maghi text.py"
+Enter a suffix (-ka, -la, -hal, -hala, -thin, -iya, -i, -ai, -ain, -lain): ka
+
+Words ending with ka :
+['puchlaka']
+
+Word Frequencies:
+puchlaka : 1
+PS C:\Users\rites\OneDrive\Desktop\jupyter> C:/Users/rites/AppData/Local/Python/pythoncore-3.14-64/python.exe "c:/Users/rites/Downloads/JOSN FILE/# Morphological Pattern Finder using maghi text.py"
+Enter a suffix (-ka, -la, -hal, -hala, -thin, -iya, -i, -ai, -ain, -lain): la
+
+Words ending with la :
+['aila']
+
+Word Frequencies:
+aila : 1
+PS C:\Users\rites\OneDrive\Desktop\jupyter> C:/Users/rites/AppData/Local/Python/pythoncore-3.14-64/python.exe "c:/Users/rites/Downloads/JOSN FILE/# Morphological Pattern Finder using maghi text.py"
+Enter a suffix (-ka, -la, -hal, -hala, -thin, -iya, -i, -ai, -ain, -lain): hal
+
+Words ending with hal :
+['hal', 'hal', 'hal', 'chal', 'mahal', 'hal', 'dumhal', 'phal', 'hal', 'hal', 'chal', 'hal', 'hal', 'hal', 'hal', 'hal', 'hal', 'rahal', 'hal', 'hal']
+
+Word Frequencies:
+hal : 14
+chal : 2
+mahal : 1
+dumhal : 1
+phal : 1
+rahal : 1
+PS C:\Users\rites\OneDrive\Desktop\jupyter> C:/Users/rites/AppData/Local/Python/pythoncore-3.14-64/python.exe "c:/Users/rites/Downloads/JOSN FILE/# Morphological Pattern Finder using maghi text.py"
+Enter a suffix (-ka, -la, -hal, -hala, -thin, -iya, -i, -ai, -ain, -lain): hala
+
+Words ending with hala :
+[]
+
+Word Frequencies:
+PS C:\Users\rites\OneDrive\Desktop\jupyter> C:/Users/rites/AppData/Local/Python/pythoncore-3.14-64/python.exe "c:/Users/rites/Downloads/JOSN FILE/# Morphological Pattern Finder using maghi text.py"
+Enter a suffix (-ka, -la, -hal, -hala, -thin, -iya, -i, -ai, -ain, -lain): thin
+
+Words ending with thin :
+['halathin', 'halthin', 'krailthin']
+
+Word Frequencies:
+halathin : 1
+halthin : 1
+krailthin : 1
+PS C:\Users\rites\OneDrive\Desktop\jupyter> C:/Users/rites/AppData/Local/Python/pythoncore-3.14-64/python.exe "c:/Users/rites/Downloads/JOSN FILE/# Morphological Pattern Finder using maghi text.py"
+Enter a suffix (-ka, -la, -hal, -hala, -thin, -iya, -i, -ai, -ain, -lain): iya
+
+Words ending with iya :
+[]
+
+Word Frequencies:
+PS C:\Users\rites\OneDrive\Desktop\jupyter> C:/Users/rites/AppData/Local/Python/pythoncore-3.14-64/python.exe "c:/Users/rites/Downloads/JOSN FILE/# Morphological Pattern Finder using maghi text.py"
+Enter a suffix (-ka, -la, -hal, -hala, -thin, -iya, -i, -ai, -ain, -lain): i
+
+Words ending with i :
+['baakii', 'i', 'i', 'bḍii', 'jii', 'gaaḍii', 'vaanii', 'guruai', 'i', 'rasoiigirii', 'mukhtaarkaarii', 'i', 'mii', 'dhurphandii', 'mokhtaarkaarii', 'aarii', 'khosaamdii', 'i', 'musalmaani', 'i', 'baakii', 'baakii', 'cugalkhoorii', 'tii', 'nai', 'molavii', 'sab-ḍipṭii', 'nai', 'hii', 'baakii', 'dhurataaii', 'paanii', 'gaaḍii', 'gaaḍii', 'bandagii', 'gaaḍii', 'abhi', 'i', 'paanii', 'abhi', 'i', 'nai', 'ii', 'bḍii', 'tii', 'nai', 'nai', 'nai', 'khaabindii', 'khosaamdii', 'baakii', 'koii', 'nai', 'i', 'nai', 'bhii', 'aadami', 'bhiirii', 'bhii', 'nai', 'ii', 'nai', 'hii', 'chaahii', 'nai', 'hai', 'bhaaii', 'jii', 'kevāḍii', 'hai', 'jii']
+
+Word Frequencies:
+baakii : 5
+i : 9
+bḍii : 2
+jii : 3
+gaaḍii : 4
+vaanii : 1
+guruai : 1
+rasoiigirii : 1
+mukhtaarkaarii : 1
+mii : 1
+dhurphandii : 1
+mokhtaarkaarii : 1
+aarii : 1
+khosaamdii : 2
+musalmaani : 1
+cugalkhoorii : 1
+tii : 2
+nai : 11
+molavii : 1
+sab-ḍipṭii : 1
+hii : 2
+dhurataaii : 1
+paanii : 2
+bandagii : 1
+abhi : 2
+ii : 2
+khaabindii : 1
+koii : 1
+bhii : 2
+aadami : 1
+bhiirii : 1
+chaahii : 1
+hai : 2
+bhaaii : 1
+kevāḍii : 1
+PS C:\Users\rites\OneDrive\Desktop\jupyter> C:/Users/rites/AppData/Local/Python/pythoncore-3.14-64/python.exe "c:/Users/rites/Downloads/JOSN FILE/# Morphological Pattern Finder using maghi text.py"
+Enter a suffix (-ka, -la, -hal, -hala, -thin, -iya, -i, -ai, -ain, -lain): ai
+
+Words ending with ai :
+['guruai', 'nai', 'nai', 'nai', 'nai', 'nai', 'nai', 'nai', 'nai', 'nai', 'nai', 'nai', 'hai', 'hai']
+
+Word Frequencies:
+guruai : 1
+nai : 11
+hai : 2
+ghi text.py"
+Enter a suffix (-ka, -la, -hal, -hala, -thin, -iya, -i, -ai, -ain, -lain): ain
+
+Words ending with ain :
+['aglain']
+
+Word Frequencies:
+aglain : 1
+PS C:\Users\rites\OneDrive\Desktop\jupyter> C:/Users/rites/AppData/Local/Python/pythoncore-3.14-64/python.exe "c:/Users/rites/Downloads/JOSN FILE/# Morphological Pattern Finder using maghi text.py"
+Enter a suffix (-ka, -la, -hal, -hala, -thin, -iya, -i, -ai, -ain, -lain): lain
+
+Words ending with lain :
+['aglain']
+
+Word Frequencies:
+aglain : 1
+PS C:\Users\rites\OneDrive\Desktop\jupyter> & 'c:\Users\rites\Downloads\JOSN FILE\# Morphological Pattern Finder using maghi text.py'
+PS C:\Users\rites\OneDrive\Desktop\jupyter>
